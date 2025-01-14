@@ -149,6 +149,7 @@ return(
     <div id="map" style={{height:"100vh"}}>
   
     </div>
+    <h1>{normcode}</h1>
     <button onClick={generate}>click</button>
     <input type="text" maxLength={4} placeholder="Enter code" onChange={join}/>
 </div>
