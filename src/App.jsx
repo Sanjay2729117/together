@@ -146,7 +146,7 @@ function join(e){
 return(
 <>
 <div>
-    <div id="map" style={{height:"90vh"}}>
+    <div id="map" style={{height:"70vh"}}>
   
     </div>
     <h1>{normcode}</h1>
